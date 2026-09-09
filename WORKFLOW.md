@@ -22,8 +22,7 @@ Not every file connects directly to every other file. The project follows a laye
 
 # 2. Overall Architecture
 
-
-
+![Alt text](mermaid-diagram.png)
 
 ---
 
