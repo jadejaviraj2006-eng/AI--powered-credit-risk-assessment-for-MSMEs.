@@ -75,13 +75,3 @@
 
 ---
 
-
-## 7. Technology Stack
-
-
----
-
-
-## 8. Data Governance, Security & Current Scope
-
-----
